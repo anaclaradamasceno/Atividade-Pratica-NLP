@@ -1,8 +1,3 @@
-<!-- Área do Banner -->
-<div align="center" style="background-color: white; max-width: 100%;">
-  <img alt="BANNER com título: NLP" title="Banner" src=".readme_docs/Banner_Github_NCPU.png" width="100%" />
-</div>
-
 <!-- Título e breve descrição do repositório -->
 <div align="center"><h1>NLP</h1><p><b>Repositório de materiais para o trabalho da matéria de Natural Language Processing. Tecnologias usadas:</b></p></div>
 
@@ -32,14 +27,9 @@ Aqui você encontrará o arquivo dos dados e metadados em txt (`Fake.br-Corpus/f
 
 ## Participantes
 
-| [<img src="https://avatars3.githubusercontent.com/u/60905310?s=460&v=4" width="75px;"/>](https://github.com/guipatriota) |
-| :------------------------------------------------------------------------------------------------------------------------: |
-
-| [Prof. Guilherme Patriota](https://github.com/guipatriota)
-
-
-| [Ana Clara Martins]((https://github.com/anaclaradamasceno))
-| [<img src="https://avatars.githubusercontent.com/u/100650361?v=4" width="75px;"/>](https://github.com/anaclaradamasceno)
+| <img src="https://avatars3.githubusercontent.com/u/60905310?s=460&v=4" width="120"> | <img src="https://avatars.githubusercontent.com/u/100650361?v=4" width="120"> |
+|-----------------------------------------------|----------------------------------------------|
+| [Prof. Guilherme Patriota](https://github.com/guipatriota) | [Ana Clara Martins](https://github.com/anaclaradamasceno) |
 
 ## Como usar este repositório
 
