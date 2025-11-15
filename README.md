@@ -38,6 +38,9 @@ Aqui você encontrará o arquivo dos dados e metadados em txt (`Fake.br-Corpus/f
 | [Prof. Guilherme Patriota](https://github.com/guipatriota)
 
 
+| [Ana Clara Martins]((https://github.com/anaclaradamasceno))
+| [<img src="https://avatars.githubusercontent.com/u/100650361?v=4" width="75px;"/>](https://github.com/anaclaradamasceno)
+
 ## Como usar este repositório
 
 ### Método 1: Link direto para Google Colab com os arquivos deste repositório
